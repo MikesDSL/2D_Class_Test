@@ -4,5 +4,7 @@ int main()
 
 	bool asdasd = false;
 
+	asdasd = true;
+
 	return 0;
 }
